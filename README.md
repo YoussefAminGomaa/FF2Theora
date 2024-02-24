@@ -1,6 +1,6 @@
 # Feeding Frenzy 2 Theora
 
-FF2Theora is an program that changes the structure of an ogg theora file to an feeding frenzy 2 ogg theora file, it also supports cropping, changing video size, can also decode feeding frenzy 2 theora files back to ogg theora files and several much. It is written in C# .NET language.
+FF2Theora is an program that changes the structure of an ogg theora file to an feeding frenzy 2 ogg theora file, it also supports cropping, changing video size, can also decode feeding frenzy 2 theora files back to ogg theora files and several much. It is written in C# .NET language and published to native application via .NET NativeAOT (Ahead Of Time).
 
 ## Building tutorial: 
 
