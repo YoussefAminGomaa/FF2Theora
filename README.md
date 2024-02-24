@@ -48,5 +48,8 @@ A list of commands and their purposes:
 #### crop the video metadata such as framerate, video aspect, video quality, and keyframe:
 * ff2theora --crop 0:0:-20 fish.ogg
 
-### To decode an payload theora (by switching mode to decode):
+#### To decode an payload theora (by switching mode to decode):
 * ff2theora --mode decode --output theora.ogv animation.theora
+
+
+If you encountered an error in this program, request an issue and tell us what is the error.
