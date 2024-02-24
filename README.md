@@ -1,1 +1,1 @@
-FF2Theora is an program that changes the ogg structure of an ogg theora file to an feeding frenzy 2 ogg theora file, it also supports cropping, changing video size, can decode feeding frenzy 2 theora files.
+FF2Theora is an program that changes the ogg structure of an ogg theora file to an feeding frenzy 2 ogg theora file, it also supports cropping, changing video size and can also decode feeding frenzy 2 theora files back to ogg theora files.
