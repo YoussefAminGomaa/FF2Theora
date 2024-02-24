@@ -40,7 +40,6 @@ A list of commands and their purposes:
 ### Miscellaneous:
 * -n, --nologo           Suppress the copyright logo.
 * -v, --visit            Let's you open the browser which has the url with the owner of this program (Shark Attack).
-* -h, --help             Shows this message.
 * -N, --nocolor          Use the default color from the console. (Gray).
 
 ### Examples:
